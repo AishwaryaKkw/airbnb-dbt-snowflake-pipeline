@@ -1,0 +1,3 @@
+{
+    "dbt.dbtPythonPathOverride": "C:\\Users\\aishw\\aws-dbt-snowflake\\.venv\\Scripts\\python.exe"
+}
